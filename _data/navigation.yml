@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Home"
+    url: /
+  - title: "Unity"
+    url: /categories/unity/
+  - title: "Git"
+    url: /categories/git/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
