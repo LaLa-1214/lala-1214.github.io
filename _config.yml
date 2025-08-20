@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "IndieJay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Unity 클라이언트 개발자 | C# | 게임 시스템, UI/UX"
+  location         : "South Korea"
+  email            : indieJay9@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
