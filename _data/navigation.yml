@@ -6,7 +6,7 @@ main:
     url: /unity/
   - title: "Git"
     url: /git/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Algorithm"
+    url: /Algorithm/
   # - title: "Sitemap"
   #   url: /sitemap/
