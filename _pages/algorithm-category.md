@@ -1,7 +1,7 @@
 ---
 title: "Algorithm"
 layout: archive
-permalink: /Algorithm/
+permalink: /Algorithm
 author_profile: true
 taxonomy: Algorithm
 ---
