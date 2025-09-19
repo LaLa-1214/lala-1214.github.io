@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "Unity"
-    url: "/unity"
+    url: "/Unity"
   - title: "Git"
-    url: "/git"
+    url: "/Git"
   - title: "Algorithm"
     url: "/Algorithm"
   # - title: "Sitemap"
