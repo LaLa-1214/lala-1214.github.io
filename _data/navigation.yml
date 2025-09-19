@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: /
   - title: "Unity"
-    url: /unity/
+    url: "/unity"
   - title: "Git"
-    url: /git/
+    url: "/git"
   - title: "Algorithm"
-    url: /Algorithm/
+    url: "/Algorithm"
   # - title: "Sitemap"
   #   url: /sitemap/
