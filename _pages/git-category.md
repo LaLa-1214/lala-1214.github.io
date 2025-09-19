@@ -1,7 +1,7 @@
 ---
 title: "Git"
 layout: archive
-permalink: /git/
+permalink: /Git
 author_profile: true
 taxonomy: Git
 ---
